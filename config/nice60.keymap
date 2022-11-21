@@ -60,14 +60,14 @@
 // |         |    |    |    |      |       |      |      |   |    |    |     |     |              |
 // |          |     |      |      |      |       |      |       |    |    |      |      |         |
 // |             |      |      |      |     |      |     |     |     |      |       |     CTRL    |
-// |         |      |      |                                    |         |       | Shift |  ALT  |
+// |         |      |      |                                    |         |  Esc  | Shift |  ALT  |
 // ------------------------------------------------------------------------------------------------
 			bindings = <
 	&trans   &trans    &trans    &trans  &trans           &trans        &trans      &trans      &trans   &trans   &trans  &trans &trans  &trans
 	&trans    &trans    &trans    &trans    &trans     &trans    &trans    &trans   &trans    &trans    &trans     &trans    &trans     &trans 
 	&trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans     &trans     &trans        &trans     &trans
 	&trans          &trans    &trans    &trans   &trans          &trans          &trans          &trans          &trans   &trans   &trans     &kp RCTRL
-	&trans       &trans   &trans                            &trans                                      &trans      &trans      &kp RSHFT      &kp RALT
+	&trans       &trans   &trans                            &trans                                      &trans      &gresc      &kp RSHFT      &kp RALT
 			>;
 		};
 	};
