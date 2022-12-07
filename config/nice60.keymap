@@ -67,7 +67,7 @@
 	&trans    &trans    &trans    &trans    &trans     &trans    &trans    &trans   &trans    &trans    &trans     &trans    &trans     &trans 
 	&trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans    &trans     &trans     &trans        &trans     &trans
 	&trans          &trans    &trans    &trans   &trans          &trans          &trans          &trans          &trans   &trans   &trans     &kp RCTRL
-	&trans       &trans   &trans                            &trans                                      &trans      &F20      &kp RSHFT      &kp RALT
+	&trans       &trans   &trans                            &trans                                      &trans      &kp F20      &kp RSHFT      &kp RALT
 			>;
 		};
 	};
